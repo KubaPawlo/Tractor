@@ -1,0 +1,32 @@
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.exe.config
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.exe
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.pdb
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.fmMain.resources
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.Properties.Resources.resources
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.exe
+C:\Users\Asus\Desktop\programy jezyki programowania\semestr 5 obiektowe\projekt obiektowo\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.pdb
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.exe.config
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.exe
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.pdb
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.AssemblyReference.cache
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.fmMain.resources
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.Properties.Resources.resources
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.GenerateResource.cache
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.CoreCompileInputs.cache
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.exe
+D:\JakubPawłowicz153029\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.pdb
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.exe.config
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.exe
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\bin\Debug\Traktor_JakubPawłowicz.pdb
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.fmMain.resources
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.Properties.Resources.resources
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.exe
+C:\Users\Asus\Desktop\programy jezyki programowania\Traktor_JakubPawłowicz\Traktor_JakubPawłowicz\obj\Debug\Traktor_JakubPawłowicz.pdb
